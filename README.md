@@ -1,3 +1,3 @@
-# ⚠️⚠️⚠️请移步至本仓库ysck分支
+# ⚠️⚠️⚠️请移步至本人 backups-actions 项目
 
-https://github.com/QC3284/clash-gz/tree/ysck
+https://github.com/QC3284/backups-actions
